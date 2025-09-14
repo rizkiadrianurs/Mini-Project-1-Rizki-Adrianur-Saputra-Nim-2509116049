@@ -9,6 +9,7 @@ Flowchart Sistem manajemen data tiket konser (VIP dan Reguler)
 
 1. Pilihan Menu
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-1-Rizki-Adrianur-Saputra-Nim-2509116049/blob/48993756f1dd3bdeb99b37d55a2ae21957727e79/Screenshot%202025-09-14%20222743.png)
+
 User akan memilih opsi apa pada menu
 
 2. Hasil Output pilihan 1
@@ -17,13 +18,13 @@ User akan menginput angka pada “Sebutkan No Tiket untuk Mengecek Jenis Tiket�
 Pada output ini menggunakan percobaan no tiket 12 yang hasilnya VIP dan no tiket 50 yang hasil output nya Reguler
 
 3. Hasil Output pilihan 2
-![img alt](https://github.com/rizkiadrianurs/Mini-Project-1-Rizki-Adrianur-Saputra-Nim-2509116049/blob/94b2973a3f3a37405db014a191108556fe60691c/Screenshot%202025-09-14%20211314.png) 
-User akan Menginput “Sebutkan No Tiket untuk Mengecek Kursi”. Setelah menjawab, Program akan langsung memberikan output dimana kursi no tiket yang telah di input. Kemudian Program akan kembali ke menu utama.
+![img alt](https://github.com/rizkiadrianurs/Mini-Project-1-Rizki-Adrianur-Saputra-Nim-2509116049/blob/94b2973a3f3a37405db014a191108556fe60691c/Screenshot%202025-09-14%20211314.png)
+          User akan Menginput “Sebutkan No Tiket untuk Mengecek Kursi”. Setelah menjawab, Program akan langsung memberikan output dimana kursi no tiket yang telah di input. Kemudian Program akan kembali ke menu utama.
 Pada output ini menggunakan percobaan no tiket 14 yang hasil nya kursi B4 dan no tiket 70 yang hasil nya penonton tidak memiliki kursi khusus dan bisa menonton  dengan berdiri
 
 5. Hasil Output pilihan 3
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-1-Rizki-Adrianur-Saputra-Nim-2509116049/blob/94b2973a3f3a37405db014a191108556fe60691c/Screenshot%202025-09-14%20211350.png) 
-User akan menginput “Sebutkan No Tiket Untuk Dimasukkan ke Data Pusat”. Setelah menjawab, program akan memberikan output “No Tiket Telah Dimasukkan ke Data Pusat” dan no tiket tersebut telah terupload di data pusat. Kemudian Program akan kembali ke menu utama.
+        User akan menginput “Sebutkan No Tiket Untuk Dimasukkan ke Data Pusat”. Setelah menjawab, program akan memberikan output “No Tiket Telah Dimasukkan ke Data Pusat” dan no tiket tersebut telah terupload di data pusat. Kemudian Program akan kembali ke menu utama.
 Pada output ini menggunakan percobaan no tiket no 15 yang hasil nya adalah sudah masuk ke data pusat dan tiket no 72  yang hasil nya adalah sudah masuk ke data     pusat.
 Sebagai bukti akan menghasilkan contoh terisi nya di data pusat
 
