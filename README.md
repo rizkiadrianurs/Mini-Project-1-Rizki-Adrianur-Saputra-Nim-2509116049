@@ -5,6 +5,8 @@ Flowchart Sistem manajemen data tiket konser (VIP dan Reguler)
 
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-1-Rizki-Adrianur-Saputra-Nim-2509116049/blob/ab67ef2395aa9a22fc8d1d8083e19fe0bf359485/Flochart%20MinPro.jpg)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A. Penjelasan Flowchart
 1. Start
    
 3. Program akan Menghasilkan 5 opsi pilihan menu
@@ -29,5 +31,10 @@ Logout
 13. Jika user memilih pilihan 5, program akan memberikan output “Anda Sudah Keluar” dan anda sudah berhenti dari program (End).  Kemudian Program akan kembali ke menu utama.
     
 14. Jika user memilih angka yang tidak termasuk dalam 5 opsi, maka program akan kembali ke menu utama.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+B. Foto Output
+1. Hasil Output pilihan 1
+
 
 
