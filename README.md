@@ -48,7 +48,7 @@ Sebagai bukti akan menghasilkan contoh terhapus nya pada list VIP dan Reguler
 
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-1-Rizki-Adrianur-Saputra-Nim-2509116049/blob/97f6a9ebb0ec736229ca3694413eed555534e9b5/Screenshot%202025-09-14%20215152.png)
 
-Pada output bertujuan untuk keluar dan berhenti dari program
+Jika user memilih opsi ini maka akan keluar dan berhenti dari program
 
 
 
