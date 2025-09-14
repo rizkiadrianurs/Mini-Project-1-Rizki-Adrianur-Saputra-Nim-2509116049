@@ -11,7 +11,7 @@ Flowchart Sistem manajemen data tiket konser (VIP dan Reguler)
 
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-1-Rizki-Adrianur-Saputra-Nim-2509116049/blob/48993756f1dd3bdeb99b37d55a2ae21957727e79/Screenshot%202025-09-14%20222743.png)
 
-User akan memilih opsi apa pada menu
+User akan memilih opsi pada menu
 
 2.Hasil Output pilihan 1
 
