@@ -42,9 +42,9 @@ Pada output ini menggunakan percobaan no tiket 12 yang hasilnya VIP dan no tiket
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-1-Rizki-Adrianur-Saputra-Nim-2509116049/blob/94b2973a3f3a37405db014a191108556fe60691c/Screenshot%202025-09-14%20211314.png)
 Pada output ini menggunakan percobaan no tiket 14 yang hasil nya kursi B4 dan no tiket 70 yang hasil nya penonton tidak memiliki kursi khusus dan bisa menonton  dengan berdiri
 
-4.Hasil Output pilihan 3
+4. Hasil Output pilihan 3
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-1-Rizki-Adrianur-Saputra-Nim-2509116049/blob/94b2973a3f3a37405db014a191108556fe60691c/Screenshot%202025-09-14%20211350.png)
-Pada output ini menggunakan percobaan no tiket no 15 yang hasil nya adalah sudah masuk ke data pusat dan tiket no 72  yang hasil nya adalah sudah masuk ke data pusat. Sebagai bukti akan menghasilkan contoh terisi nya di data pusat
+ Pada output ini menggunakan percobaan no tiket no 15 yang hasil nya adalah sudah masuk ke data pusat dan tiket no 72  yang hasil nya adalah sudah masuk ke data    pusat. Sebagai bukti akan menghasilkan contoh terisi nya di data pusat
 
 5.
 
