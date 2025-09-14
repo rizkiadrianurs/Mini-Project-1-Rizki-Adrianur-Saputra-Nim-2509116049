@@ -13,7 +13,7 @@ User akan memilih opsi apa pada menu
 
 2. Hasil Output pilihan 1
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-1-Rizki-Adrianur-Saputra-Nim-2509116049/blob/94b2973a3f3a37405db014a191108556fe60691c/Screenshot%202025-09-14%20211257.png)
-user akan menginput angka pada “Sebutkan No Tiket untuk Mengecek Jenis Tiket”. Setelah menjawab, Program akan menentukan tiket tersebut VIP atau Reguler. Jika “Yes” maka program akan memberikan output bahwa nomor tiket tersebut adalah  VIP, sedangkan jika “No” maka program akan memberikan output bahwa nomor tiket tersebut adalah Reguler. Kemudian Program akan kembali ke menu utama.
+User akan menginput angka pada “Sebutkan No Tiket untuk Mengecek Jenis Tiket”. Setelah menjawab, Program akan menentukan tiket tersebut VIP atau Reguler. Jika “Yes” maka program akan memberikan output bahwa nomor tiket tersebut adalah  VIP, sedangkan jika “No” maka program akan memberikan output bahwa nomor tiket tersebut adalah Reguler. Kemudian Program akan kembali ke menu utama.
 Pada output ini menggunakan percobaan no tiket 12 yang hasilnya VIP dan no tiket 50 yang hasil output nya Reguler
 
 3. Hasil Output pilihan 2
