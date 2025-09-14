@@ -44,14 +44,14 @@ Pada output ini menggunakan percobaan no tiket 14 yang hasil nya kursi B4 dan no
 
 4. Hasil Output pilihan 3
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-1-Rizki-Adrianur-Saputra-Nim-2509116049/blob/94b2973a3f3a37405db014a191108556fe60691c/Screenshot%202025-09-14%20211350.png)
-- Pada output ini menggunakan percobaan no tiket no 15 yang hasil nya adalah sudah masuk ke data pusat dan tiket no 72  yang hasil nya adalah sudah masuk ke data pusat.
-- Sebagai bukti akan menghasilkan contoh terisi nya di data pusat
+ - Pada output ini menggunakan percobaan no tiket no 15 yang hasil nya adalah sudah masuk ke data pusat dan tiket no 72  yang hasil nya adalah sudah masuk ke data     pusat.
+ - Sebagai bukti akan menghasilkan contoh terisi nya di data pusat
 
 6. Hasil Output pilihan 4
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-1-Rizki-Adrianur-Saputra-Nim-2509116049/blob/97f6a9ebb0ec736229ca3694413eed555534e9b5/Screenshot%202025-09-14%20215136.png)
-- Pada output ini menggunakan percobaan no tiket no 17 yang nanti nya akan menghapus no 17 pada list no tiket VIP
-- Pada output ini menggunakan percobaan no tiket no 80 yang nanti nya akan menghapus no 80 list no tiket Reguler
-Sebagai bukti akan menghasilkan contoh terhapus nya pada list VIP dan Reguler
+ - Pada output ini menggunakan percobaan no tiket no 17 yang nanti nya akan menghapus no 17 pada list no tiket VIP
+ - Pada output ini menggunakan percobaan no tiket no 80 yang nanti nya akan menghapus no 80 list no tiket Reguler
+   Sebagai bukti akan menghasilkan contoh terhapus nya pada list VIP dan Reguler
 
 8. Hasil Output pilihan 5
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-1-Rizki-Adrianur-Saputra-Nim-2509116049/blob/97f6a9ebb0ec736229ca3694413eed555534e9b5/Screenshot%202025-09-14%20215152.png)
